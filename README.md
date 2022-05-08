@@ -12,7 +12,7 @@
 
 ##### 效果图
 
-<img src="image/Screenshot_20220505_163642.jpG" alt="Screenshot_20220505_163642" style="zoom:50%;" />
+<img src="image/Screenshot_20220505_163642.jpg" alt="Screenshot_20220505_163642" style="zoom:50%;" />
 
 #### SecondFragment
 
